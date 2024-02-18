@@ -1,0 +1,13 @@
+{
+  "dateFormat": "yyyy/MM/dd_HH:mm:ss",
+  "enableCreateTime": true,
+  "headerUpdated": "updated",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [],
+  "ignoreCreatedFolder": [],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "🎄 NNo0oBB.md": "7f9c760be0745e6bdacc76e36cb7af3ab7000429f8acc72b873ad1b79479b1ca"
+  }
+}
