@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/post/ps/boj/< BOJ > 2869 - 달팽이는 올라가고 싶다.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/post/ps/boj/< BOJ > 2869 - 달팽이는 올라가고 싶다.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/post/ps/boj/< BOJ > 2869 - 달팽이는 올라가고 싶다.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/post/ps/boj/< BOJ > 2869 - 달팽이는 올라가고 싶다.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,10 +148,23 @@
   },
   "active": "0f488b24c9b0a5df",
   "lastOpenFiles": [
+    "playground/README.md",
+    "README.md",
+    "blog/post/ps/boj/< BOJ > 2869 - 달팽이는 올라가고 싶다.md",
+    "playground/venv-playground/lib/python3.10/site-packages/pip-24.0.dist-info/REQUESTED",
+    "playground/venv-playground/lib/python3.10/site-packages/pip-24.0.dist-info/INSTALLER",
+    "playground/venv-playground/bin/pip3.10",
+    "playground/venv-playground/bin/pip3",
+    "playground/venv-playground/bin/pip",
+    "playground/venv-playground/lib/python3.10/site-packages/pip/_vendor/webencodings/__pycache__/x_user_defined.cpython-310.pyc",
+    "playground/venv-playground/lib/python3.10/site-packages/pip/_vendor/webencodings/__pycache__/tests.cpython-310.pyc",
+    "playground/venv-playground/lib/python3.10/site-packages/pip/_vendor/webencodings/__pycache__/mklabels.cpython-310.pyc",
+    "playground/venv-playground/lib/python3.10/site-packages/pip/_vendor/webencodings/__pycache__/labels.cpython-310.pyc",
+    "playground/venv-playground/lib/python3.10/site-packages/pip/_vendor/webencodings/__pycache__/__init__.cpython-310.pyc",
+    "playground/venv-playground/lib/python3.10/site-packages/idna-3.6.dist-info/LICENSE.md",
     "blog/post/ps/boj/< BOJ > 2609 - 최대공약수와 최소공배수.md",
     "blog/post/ps/boj/< BOJ > 2775 - 부녀회장이 될테야.md",
     "blog/post/ps/boj/< BOJ > 10989 - 수 정렬하기 3.md",
-    "blog/post/ps/boj/< BOJ > 2869 - 달팽이는 올라가고 싶다.md",
     "blog/template/leaf_insight.md",
     "blog/post/ps/boj/< BOJ > 11653 - 소인수분해.md",
     "blog/template/index.md",
@@ -161,28 +174,14 @@
     "blog/post/insight/< Insight > 한국인의 말과 행동에 감춰진 심리.md",
     "blog/post/insight/< Insight > 필즈상 허준이 졸업식 축사.md",
     "blog/template/leaf_ps_boj.md",
-    "playground/README.md",
-    "README.md",
     "🎄 NNo0oBB.md",
     "blog/README.md",
-    "nno0obb/playground/ps/boj/4344/예제_입력_1.txt",
-    "nno0obb/playground/ps/boj/4344/4344.py",
-    "nno0obb/playground/ps/boj/2869/예제_입력_3.txt",
-    "nno0obb/playground/ps/boj/2869/예제_입력_2.txt",
-    "nno0obb/playground/ps/boj/2869/예제_입력_1.txt",
-    "nno0obb/playground/ps/boj/2869/2869.py",
-    "nno0obb/playground/ps/boj/2775/예제_입력_1.txt",
-    "nno0obb/playground/ps/boj/2775/2775.py",
-    "nno0obb/playground/ps/boj/2609/예제_입력_1.txt",
-    "nno0obb/playground/ps/boj/2609/2609.py",
     "nno0obb/playground/ps/boj/📂 BOJ ( Baekjoon Online Judge ).md",
     "nno0obb/playground/ps/🤔 PS ( Problem Solving ).md",
     "nno0obb/playground/platform/kafka/🌊 Kafka.md",
     "nno0obb/playground/platform/rabbitmq/🐰 RabbitMQ.md",
     "nno0obb/playground/platform/redis/🧱 Redis.md",
     "nno0obb/playground/platform/elasticsearch/🪵 Elasticsearch.md",
-    "nno0obb/playground/platform/☁️ Platform.md",
-    "nno0obb/playground/insight/🌱 Insight.md",
-    "nno0obb/playground/book ( Non-CSE )/📚 Book ( Non-CSE ).md"
+    "nno0obb/playground/platform/☁️ Platform.md"
   ]
 }
