@@ -41,7 +41,6 @@
   "blog/post/ps/boj/< BOJ > 2869 - 달팽이는 올라가고 싶다.md": "LiLeaf",
   "blog/post/ps/boj/< BOJ > 10989 - 수 정렬하기 3.md": "LiLeaf",
   "blog/post/ps/boj/< BOJ > 11653 - 소인수분해.md": "LiLeaf",
-  "blog/template": "LiFolder",
   "playground/book ( CSE )": "LiFolder",
   "playground/book ( CSE )/기초부터 다지는 ElasticSearch 운영 노하우": "LiFolder",
   "playground/book ( Non-CSE )": "LiFolder",
@@ -60,5 +59,6 @@
   "playground/ps/boj/10989": "LiFolder",
   "playground/ps/boj/2869": "LiFolder",
   "playground/ps/boj/2775": "LiFolder",
-  "playground/ps/boj/2609": "LiFolder"
+  "playground/ps/boj/2609": "LiFolder",
+  "template": "LiFolder"
 }

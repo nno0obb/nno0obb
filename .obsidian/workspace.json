@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a9c86ce1829feec9",
+        "id": "514e32ba99d77a84",
         "type": "tabs",
         "children": [
           {
-            "id": "0f488b24c9b0a5df",
+            "id": "a4e3025d63b054ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,42 +138,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f488b24c9b0a5df",
+  "active": "6da19a8b54f0e38f",
   "lastOpenFiles": [
-    "playground/README.md",
+    "playground/ps/leetcode/937/__pycache__/937.cpython-310.pyc",
+    "playground/ps/leetcode/344/__pycache__/344.cpython-310.pyc",
+    "playground/ps/leetcode/125/__pycache__/125.cpython-310.pyc",
+    "playground/ps/leetcode/937/__pycache__",
+    "playground/ps/leetcode/937/937_test.py",
+    "playground/ps/leetcode/937/937.py",
+    "playground/ps/leetcode/344/__pycache__",
+    "playground/ps/leetcode/344/344_test.py",
+    "playground/ps/leetcode/344/344.py",
+    "playground/ps/leetcode/125/125_test.py",
+    "playground/ps/leetcode/125/__pycache__",
+    "playground/book ( CSE )/파이썬 알고리즘 인터뷰/📕 파이썬 알고리즘 인터뷰.md",
+    "blog/template/leaf_ps_boj.md",
+    "blog/template/leaf_insight.md",
+    "blog/template/leaf.md",
+    "blog/template/index.md",
+    "template/index.md",
+    "template/leaf_ps_boj.md",
+    "template/leaf_insight.md",
+    "template/leaf.md",
+    "playground/book ( CSE )/기초부터 다지는 ElasticSearch 운영 노하우/📕 기초부터 다지는 ElasticSearch 운영 노하우.md",
+    "playground/book ( CSE )/📚 Book ( CSE ).md",
+    "playground/insight/🌱 Insight.md",
+    "playground/book ( Non-CSE )/📚 Book ( Non-CSE ).md",
     "README.md",
+    "playground/venv-playground/lib/python3.10/site-packages/soupsieve-2.5.dist-info/licenses/LICENSE.md",
+    "playground/README.md",
     "blog/post/ps/boj/< BOJ > 2869 - 달팽이는 올라가고 싶다.md",
-    "playground/venv-playground/lib/python3.10/site-packages/pip-24.0.dist-info/REQUESTED",
-    "playground/venv-playground/lib/python3.10/site-packages/pip-24.0.dist-info/INSTALLER",
-    "playground/venv-playground/bin/pip3.10",
-    "playground/venv-playground/bin/pip3",
-    "playground/venv-playground/bin/pip",
-    "playground/venv-playground/lib/python3.10/site-packages/pip/_vendor/webencodings/__pycache__/x_user_defined.cpython-310.pyc",
-    "playground/venv-playground/lib/python3.10/site-packages/pip/_vendor/webencodings/__pycache__/tests.cpython-310.pyc",
-    "playground/venv-playground/lib/python3.10/site-packages/pip/_vendor/webencodings/__pycache__/mklabels.cpython-310.pyc",
-    "playground/venv-playground/lib/python3.10/site-packages/pip/_vendor/webencodings/__pycache__/labels.cpython-310.pyc",
-    "playground/venv-playground/lib/python3.10/site-packages/pip/_vendor/webencodings/__pycache__/__init__.cpython-310.pyc",
     "playground/venv-playground/lib/python3.10/site-packages/idna-3.6.dist-info/LICENSE.md",
     "blog/post/ps/boj/< BOJ > 2609 - 최대공약수와 최소공배수.md",
     "blog/post/ps/boj/< BOJ > 2775 - 부녀회장이 될테야.md",
     "blog/post/ps/boj/< BOJ > 10989 - 수 정렬하기 3.md",
-    "blog/template/leaf_insight.md",
     "blog/post/ps/boj/< BOJ > 11653 - 소인수분해.md",
-    "blog/template/index.md",
     "playground/ps/boj/📂 BOJ ( Baekjoon Online Judge ).md",
     "playground/platform/elasticsearch/🪵 Elasticsearch.md",
-    "blog/template/leaf.md",
-    "blog/post/insight/< Insight > 한국인의 말과 행동에 감춰진 심리.md",
-    "blog/post/insight/< Insight > 필즈상 허준이 졸업식 축사.md",
-    "blog/template/leaf_ps_boj.md",
-    "🎄 NNo0oBB.md",
-    "blog/README.md",
-    "nno0obb/playground/ps/boj/📂 BOJ ( Baekjoon Online Judge ).md",
-    "nno0obb/playground/ps/🤔 PS ( Problem Solving ).md",
-    "nno0obb/playground/platform/kafka/🌊 Kafka.md",
-    "nno0obb/playground/platform/rabbitmq/🐰 RabbitMQ.md",
-    "nno0obb/playground/platform/redis/🧱 Redis.md",
-    "nno0obb/playground/platform/elasticsearch/🪵 Elasticsearch.md",
-    "nno0obb/playground/platform/☁️ Platform.md"
+    "blog/post/insight/< Insight > 한국인의 말과 행동에 감춰진 심리.md"
   ]
 }
