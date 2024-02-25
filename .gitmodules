@@ -4,3 +4,6 @@
 [submodule "playground"]
 	path = playground
 	url = https://github.com/nno0obb/playground.git
+[submodule "log"]
+	path = log
+	url = https://github.com/nno0obb/log.git

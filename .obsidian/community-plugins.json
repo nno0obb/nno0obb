@@ -3,5 +3,8 @@
   "obsidian-icon-folder",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-front-matter-title-plugin",
-  "obsidian-tracker"
+  "obsidian-tracker",
+  "dataview",
+  "calendar",
+  "periodic-notes"
 ]

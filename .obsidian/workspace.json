@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "514e32ba99d77a84",
+        "id": "3b086be7277180c4",
         "type": "tabs",
         "children": [
           {
-            "id": "a4e3025d63b054ca",
+            "id": "a646f2842ac2f9cc",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 444.5
+    "width": 378.5
   },
   "right": {
     "id": "b5dac4140c52bf12",
@@ -120,13 +120,21 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "690862a58b689468",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -135,46 +143,84 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "6da19a8b54f0e38f",
+  "floating": {
+    "id": "d5aaf058cd202442",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6c7cf854a78812f3",
+        "type": "window",
+        "children": [
+          {
+            "id": "c8b925eea4c9049d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "50102f80373bff91",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "playground/README.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1227,
+        "y": 178,
+        "width": 1197,
+        "height": 939,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "a646f2842ac2f9cc",
   "lastOpenFiles": [
+    "playground/venv-playground/lib/python3.10/site-packages/idna-3.6.dist-info/LICENSE.md",
+    "log/2024Y/2024Y-02M/2024Y-02M.md",
+    "log/2024Y/2024Y-02M/2024Y-02M-25D.md",
+    "log/2024Y/🗓️ 2024Y.md",
+    "README.md",
+    "2024Y-02M-26D.md",
+    "log/2024Y/2024Y-habit/2024Y-피부 뜯지 않기.md",
+    "log/2024Y/2024Y-habit/2024Y-태권도 (평일).md",
+    "log/2024Y/2024Y-habit/2024Y-자기전에 유튜브 보지 않기.md",
+    "log/2024Y/2024Y-habit/2024Y-운동 (주말).md",
+    "log/2024Y/2024Y-habit/2024Y-알고리즘 1문제 이상 풀기.md",
+    "log/2024Y/2024Y-habit/2024Y-손톱 물어뜯지 않기.md",
+    "log/2024Y/2024Y-habit/2024Y-새벽 1시 전에 자기.md",
+    "playground/book ( CSE )/📚 Book ( CSE ).md",
+    "log/README.md",
+    "playground/ps/boj/📂 BOJ ( Baekjoon Online Judge ).md",
+    "playground/README.md",
+    "playground/book ( CSE )/기초부터 다지는 ElasticSearch 운영 노하우/📕 기초부터 다지는 ElasticSearch 운영 노하우.md",
+    "log/Untitled.md",
+    "log/2024Y/2024Y-02M/2024Y-02M-22D.md",
+    "log/2024Y/2024Y-02M/2024Y-02M-19D.md",
+    "log/2024Y/2024Y-02M/2024Y-02M-23D.md",
+    "log/2024Y/2024Y-02M/2024Y-02M-24D.md",
+    "log/2024Y/2024Y-02M/2024Y-02M-21D.md",
+    "log/2024Y/2024Y-02M/2024Y-02M-20D.md",
+    "log/2024Y/2024Y-01M/2024Y-01M-30D.md",
+    "log/2024Y/2024Y-01M",
+    "log/2024Y/2024Y-habit",
+    "log/2024Y/2024Y-02M",
+    "log/2024Y",
+    "log",
     "playground/ps/leetcode/937/__pycache__/937.cpython-310.pyc",
     "playground/ps/leetcode/344/__pycache__/344.cpython-310.pyc",
     "playground/ps/leetcode/125/__pycache__/125.cpython-310.pyc",
     "playground/ps/leetcode/937/__pycache__",
-    "playground/ps/leetcode/937/937_test.py",
-    "playground/ps/leetcode/937/937.py",
-    "playground/ps/leetcode/344/__pycache__",
-    "playground/ps/leetcode/344/344_test.py",
-    "playground/ps/leetcode/344/344.py",
-    "playground/ps/leetcode/125/125_test.py",
-    "playground/ps/leetcode/125/__pycache__",
-    "playground/book ( CSE )/파이썬 알고리즘 인터뷰/📕 파이썬 알고리즘 인터뷰.md",
-    "blog/template/leaf_ps_boj.md",
-    "blog/template/leaf_insight.md",
-    "blog/template/leaf.md",
-    "blog/template/index.md",
-    "template/index.md",
-    "template/leaf_ps_boj.md",
-    "template/leaf_insight.md",
-    "template/leaf.md",
-    "playground/book ( CSE )/기초부터 다지는 ElasticSearch 운영 노하우/📕 기초부터 다지는 ElasticSearch 운영 노하우.md",
-    "playground/book ( CSE )/📚 Book ( CSE ).md",
-    "playground/insight/🌱 Insight.md",
-    "playground/book ( Non-CSE )/📚 Book ( Non-CSE ).md",
-    "README.md",
-    "playground/venv-playground/lib/python3.10/site-packages/soupsieve-2.5.dist-info/licenses/LICENSE.md",
-    "playground/README.md",
-    "blog/post/ps/boj/< BOJ > 2869 - 달팽이는 올라가고 싶다.md",
-    "playground/venv-playground/lib/python3.10/site-packages/idna-3.6.dist-info/LICENSE.md",
-    "blog/post/ps/boj/< BOJ > 2609 - 최대공약수와 최소공배수.md",
-    "blog/post/ps/boj/< BOJ > 2775 - 부녀회장이 될테야.md",
-    "blog/post/ps/boj/< BOJ > 10989 - 수 정렬하기 3.md",
-    "blog/post/ps/boj/< BOJ > 11653 - 소인수분해.md",
-    "playground/ps/boj/📂 BOJ ( Baekjoon Online Judge ).md",
-    "playground/platform/elasticsearch/🪵 Elasticsearch.md",
-    "blog/post/insight/< Insight > 한국인의 말과 행동에 감춰진 심리.md"
+    "playground/ps/leetcode/937/937_test.py"
   ]
 }

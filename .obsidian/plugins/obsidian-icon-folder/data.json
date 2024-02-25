@@ -6,7 +6,7 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiMap",
+      "LiDatabase",
       "LiFolder"
     ],
     "recentlyUsedIconsSize": 2,
@@ -60,5 +60,17 @@
   "playground/ps/boj/2869": "LiFolder",
   "playground/ps/boj/2775": "LiFolder",
   "playground/ps/boj/2609": "LiFolder",
-  "template": "LiFolder"
+  "template": "LiFolder",
+  "log": "LiFolderGit2",
+  "log/README.md": "LiMap",
+  "log/2024Y": "LiFolder",
+  "log/2024Y/2024Y-02M": "LiFolder",
+  "log/2024Y/2024Y-02M/2024Y-02M.md": "LiDatabase",
+  "log/2024Y/2024Y-habit/2024Y-운동 (주말).md": "LiDatabase",
+  "log/2024Y/2024Y-habit/2024Y-태권도 (평일).md": "LiDatabase",
+  "log/2024Y/2024Y-habit/2024Y-새벽 1시 전에 자기.md": "LiDatabase",
+  "log/2024Y/2024Y-habit/2024Y-손톱 물어뜯지 않기.md": "LiDatabase",
+  "log/2024Y/2024Y-habit/2024Y-자기전에 유튜브 보지 않기.md": "LiDatabase",
+  "log/2024Y/2024Y-habit/2024Y-피부 뜯지 않기.md": "LiDatabase",
+  "log/2024Y/2024Y-habit/2024Y-알고리즘 1문제 이상 풀기.md": "LiDatabase"
 }

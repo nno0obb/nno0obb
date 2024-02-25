@@ -2,5 +2,8 @@
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
   "strictLineBreaks": false,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "userIgnoreFilters": [
+    "playground/venv-playground/"
+  ]
 }
